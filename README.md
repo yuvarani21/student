@@ -1,1 +1,1 @@
-# predicting percentage of a student
+# predict the percentage of a student
